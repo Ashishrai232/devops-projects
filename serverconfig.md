@@ -40,3 +40,5 @@ how did i configure fail2ban?
 
 ![Screenshot from 2024-10-14 23-22-10](https://github.com/user-attachments/assets/691d1ab8-2c1f-4d2e-85ac-aca6620b7e4c)
 ![Screenshot from 2024-10-14 23-22-16](https://github.com/user-attachments/assets/ffd3a5a6-9b9c-403f-8ac8-3da3c89d4901)
+![Screenshot from 2024-10-17 11-46-02](https://github.com/user-attachments/assets/b2d385b5-18a5-4cf3-af24-bd192651f4f5)
+
