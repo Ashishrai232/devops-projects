@@ -1,0 +1,7 @@
+whoami
+pwd
+echo "lalala"
+date
+
+#You will notice that it works fine without any problem but issue arises when the default terminal is not bash '
+#therefore it is expected to tell  what compiler to use
