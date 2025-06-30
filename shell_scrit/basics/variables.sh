@@ -10,3 +10,10 @@ echo "${work}"
 #learning System variable
 echo "Let us learn system variables"
 
+echo ${HOME}
+echo ${PATH}
+
+echo ""
+echo ${$} #prints Process id
+echo ${PPID} #prints parent process id
+

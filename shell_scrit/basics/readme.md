@@ -16,3 +16,9 @@ By convention, variable names are often written in UPPERCASE.
      No spaces around the = sign.
 
 
+Best Practices for inputs:
+Always validate user input to avoid unexpected behavior or security vulnerabilities.
+Use prompt messages to guide users.
+Secure sensitive input (e.g., passwords) with the -s option.
+Provide defaults to ensure smooth script execution in case of empty input.
+Use arrays for structured data input.
